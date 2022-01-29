@@ -4,10 +4,10 @@
 npm install -g @nestjs/cli
 
 - criando um projeto:
-nest new produtos-api
+nest new livros-api
 
 - Inicializa o servidor:
-cd produtos-api
+cd livros-api
 npm run start
 
 - Inicializa o servidor no modo dev que atualiza os dados em tempo real
